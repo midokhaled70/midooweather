@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>الطقس</title>
+<link rel="stylesheet"href="Css/all.min.css">
+<link rel="stylesheet"href="Css/style.css">
+<Link rel="stylesheet"href="Css/bootstrap.min.css">
+
+</head>
+<body>
+    <!--navbar section-->
+<section class="container-fluid section1">
+
+  <nav class="navbar navbar-expand-lg bg-dark ">
+    <div class="container-fluid p-lg-5">
+      <img src="images/logo@2x.png" alt="logo"class="logo-img">
+     <div class="ms-lg-2 logo-text text-center ">
+<a class="text-white p-1">Weather</a>
+<p class="text-light">Ahmed Khaled</p>
+     </div>
+
+
+      
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active btn-home btn" aria-current="page" href="#">Home</a>
+          </li>
+          <li class="nav-item ">
+            <a class="nav-link text-white btn" href="#">News</a>
+          </li>
+          <li class="nav-item ">
+            <a class="nav-link text-white btn" href="#">Live Camera</a>
+          </li>
+          <li class="nav-item ">
+            <a class="nav-link text-white btn" href="#">Photoes</a>
+          </li>
+          <li class="nav-item ">
+            <a class="nav-link text-white btn" href="#">Contact</a>
+          </li>
+       
+       
+        </ul>
+      
+      </div>
+    </div>
+  </nav>
+
+
+</section>
+ <!-- end of navbar section-->
+
+  <!-- panner section-->
+ <section class="panner text-center">
+<div class="location w-75">
+<input type="text" placeholder="find your location"id="searchInput" class="position-relative search w-100">
+<input type="button" value="find" id="find" type="submit"class="position-absolute find">
+</div>
+
+<div id="alertsearchInput" class="alert w-75 alert-danger d-none" role="alert">
+<strong>دخل الاسم صح ياباشا</strong>
+</div>
+ </section>
+  <!-- End of panner section-->
+
+<!--thrree div -->
+<section class="divs">
+<div class="w-75 m-auto d-flex row justify-content-center threedivs">
+
+<!--today div-->
+<div class="div1 col-lg-4">
+
+  <!--today headr-->
+<div class="today-header d-flex flex-row justify-content-lg-between p-2 ">
+<div class="todayname"id="todayname">
+
+</div>
+<div id="date">
+
+</div>
+</div>
+ <!-- end of today headr-->
+
+ <!--today boday-->
+<div class="today-body" >
+<div class="today-city" id="cityName">
+  
+</div>
+<div class="today-temp"id="today-temp" >
+  <sup>o</sup>C
+</div>
+<img src="images/113.png" id="today-icon" class="today-icon">
+<div class="today-text" id="today-text"></div>
+<div class="d-flex flex-row justify-content-between w-100 p-2" >
+   
+<span class="span1">
+  <img src="images/icon-umberella.png">
+  <span id="willRain"></span>%
+</span>
+
+<span class="span1">
+  <img src="images/icon-wind.png">
+  <span id="wind"></span>Km/h
+</span>
+<span class="span1">
+  <img src="images/icon-compass.png">
+  <span id="direction"></span>
+</span>
+
+</div>
+
+
+
+</div>
+<!-- end of today boday-->
+
+
+
+
+
+</div>
+<!-- End of today div-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--tomorrow div-->
+<div class="div2 col-lg-4"> 
+<div class="tom-header text-center">
+<div id="tom-name">
+
+</div>
+
+
+</div>
+
+<div class="tom-body">
+<img src="images/113.png" id="tom-icon">
+<div class="tom-max-tem">
+  <span id="tom-max-tem"></span><sup>o</sup>C 
+</div>
+
+<div class="tom-min-tem">
+  <span id="tom-min-tem"></span><sup>o</sup>C 
+</div>
+
+<div class="text-tem" id="tom-text"></div>
+
+</div>
+
+
+
+
+</div>
+<!--end of tomorrow div-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--after tomorrow div-->
+<div class="div3 col-lg-4"> 
+  <div class="tom-header text-center">
+  <div id="afttom-name">
+  
+  </div>
+  
+  
+  </div>
+  
+  <div class="tom-body">
+  <img src="images/113.png" id="afttom-icon">
+  <div class="tom-max-tem">
+    <span id="afttom-max-tem"></span><sup>o</sup>C 
+  </div>
+  
+  <div class="tom-min-tem">
+    <span id="afttom-min-tem"></span><sup>o</sup>C 
+  </div>
+  
+  <div class="text-tem" id="afttom-text"></div>
+  
+  </div>
+  
+  
+  
+   
+  </div>
+<!--End of after tomorrow div-->
+</div>
+</section>
+
+<!-- End of thrree div -->
+
+    <script src="https://kit.fontawesome.com/66aa7c98b3.js" crossorigin="anonymous"></script>
+<script src="js/main.js"></script>
+<script src="js/bootstrap.bundle.min.js"></script>
+    </body>
+    </html>
