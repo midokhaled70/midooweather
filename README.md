@@ -30,5 +30,6 @@ The **Weather Forecasting App** was created with the goal of offering an intuiti
 
 ### Purpose and Motivation:
 The primary motivation behind this project was to develop a weather app that is both functional and aesthetically pleasing, with a focus on user interaction and ease of use. By providing up-to-date weather information and forecasts, the app aims to serve as a valuable tool for users who want to stay informed about the weather conditions in their current location or any city around the world.
-
 This project also serves as a great starting point for developers looking to explore weather-related APIs and learn how to build interactive, data-driven web applications using JavaScript and CSS.
+
+
