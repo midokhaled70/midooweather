@@ -62,7 +62,8 @@ It also serves as a great starting point for developers interested in:
 
 ## 📸 Screenshots (Optional)
 
-> *(You can add screenshots or a screen recording of the app in action here!)*
+![Capture](https://github.com/user-attachments/assets/b17af2a3-4cfb-4077-81a2-73886cc3d750)
+
 
 ---
 
