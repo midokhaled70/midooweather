@@ -1,6 +1,3 @@
-Here's an improved and polished version of your `README.md`, enhanced with better structure, clarity, and relevant icons using [Markdown emoji](https://gist.github.com/rxaviers/7360908) style for visual appeal:
-
----
 
 # ☀️ Weather Forecasting App
 
@@ -84,16 +81,10 @@ It also serves as a great starting point for developers interested in:
 
 ---
 
-## 🙌 Contributing
 
-Feel free to fork the project, open issues, or submit pull requests. All contributions are welcome!
-
----
 
 ## 📃 License
 
-This project is open source and available under the [MIT License](LICENSE).
+MIDOKHALED.
 
----
 
-Would you like a badge layout (like GitHub stars, license, etc.) or installation instructions too?
