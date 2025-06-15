@@ -71,7 +71,7 @@ It also serves as a great starting point for developers interested in:
 3. Type in any city name and get the latest weather updates instantly!
 
 ---
-
+##Author
 ## 📌 Future Improvements
 
 * 🌍 Geolocation-based weather fetching
