@@ -86,6 +86,6 @@ It also serves as a great starting point for developers interested in:
 
 ## 📃 License
 
-mIDOKHALED.
+Mido.
 
 
