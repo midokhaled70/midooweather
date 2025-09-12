@@ -1,4 +1,4 @@
-
+d
 # ☀️ Weather Forecasting App
 
 ## 🌦️ Project Description
@@ -72,7 +72,7 @@ It also serves as a great starting point for developers interested in:
 
 ---
 ##Author
-**Mido Khale**
+**Mido Khaled**
 ## 📌 Future Improvements
 
 * 🌍 Geolocation-based weather fetching
