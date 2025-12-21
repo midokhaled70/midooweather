@@ -72,7 +72,7 @@ It also serves as a great starting point for developers interested in:
 
 ---
 ##Author
-**Mi Kh**
+**Mid Kh**
 ## 📌 Future Improvements
 
 * 🌍 Geolocation-based weather fetching
