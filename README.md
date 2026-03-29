@@ -1,4 +1,4 @@
-h
+
 # ☀️ Weather Forecasting App
 
 ## 🌦️ Project Description
