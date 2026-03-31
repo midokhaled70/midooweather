@@ -1,6 +1,6 @@
 
 # ☀️ Weather Forecasting App
-
+h
 ## 🌦️ Project Description
 
 The **Weather Forecasting App** is a sleek and modern web application that delivers **real-time weather data** and **two-day forecasts** for any city. Built with **HTML**, **CSS**, **JavaScript**, and **Bootstrap**, it ensures a highly responsive and seamless experience across devices.
